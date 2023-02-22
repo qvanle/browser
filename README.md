@@ -8,3 +8,5 @@ all browser on the internet are not satisfy me so I want to create a new one
 2. chưa nghĩ ra
 
 ### done
+
+## todo list
