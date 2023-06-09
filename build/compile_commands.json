@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qvanle/projects/browser/build",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/CLM.dir/src/main.cpp.o -c /home/qvanle/projects/browser/src/main.cpp",
+  "file": "/home/qvanle/projects/browser/src/main.cpp"
+}
+]
